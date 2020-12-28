@@ -1,0 +1,22 @@
+body{
+    background-image: url("../img/Pergamino.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(175, 107, 44);
+}
+h2{
+    text-align: center;
+}
+h5{
+    text-align: right;
+}
+p{
+    text-align: center;
+    color: rgb(53, 43, 15);
+}
+footer{
+    background-color: rgb(173, 163, 12);
+}
